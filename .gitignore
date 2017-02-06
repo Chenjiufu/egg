@@ -17,5 +17,6 @@ docs/source/release/index.md
 docs/source/member_guide.md
 docs/**/contributing.md
 docs/public
+benchmarks/wrk
 
 !test/fixtures/apps/loader-plugin/node_modules
